@@ -20,8 +20,13 @@ import java.io.IOException;
  */
 
 public class CallRestWebService {
+<<<<<<< HEAD
      //hellogit stat
 	// mise qjour 3
+=======
+     //hellogit statgit
+	//Omar
+>>>>>>> master
 	public static final String endpoint = "http://ip-api.com/json";
 	//public static final String endpoint = "https://httpbin.org/get";
 	public static void main(String[] args) {
